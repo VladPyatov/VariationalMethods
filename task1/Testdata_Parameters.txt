@@ -1,0 +1,11 @@
+task3.py active_contours task2_testdata/astranaut.png task2_testdata/astranaut_init_snake.txt astranaut_mask.png 2 0.1 0.1 0 100 0.43 -0.8 1.5 100 2100
+task3.py active_contours task2_testdata/nucleus.png task2_testdata/nucleus_init_snake.txt nucleus_mask.png 3 5 0.1 0 10 0.1 -0.71 5 100 1850
+task3.py active_contours task2_testdata/coins.png task2_testdata/coins_init_snake.txt coins.png 1 0.1 0.01 10 100 0.67 0.615 2 100 6000
+task3.py active_contours task2_testdata/microarray.png task2_testdata/microarray_init_snake.txt microarray.png 0.7 0.1 0.1 5 10 -0.48 0.5 1 100 5000
+task3.py active_contours task2_testdata/coffee.png task2_testdata/coffee_init_snake.txt coffee.png 1 0.1 0.1 50 100 -0.4805 0.5 2 100 4500
+
+
+
+
+
+
